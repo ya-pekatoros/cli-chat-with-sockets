@@ -1,0 +1,75 @@
+{
+    "Server lof from 2023-02-27 10:05:13 till 2023-02-27 10:06:14": {
+        "server_start_time": "2023-02-27 10:05:13",
+        "clients": {
+            "\u042f\u0440\u0438\u043a": "<socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 12345), raddr=('127.0.0.1', 37354)>",
+            "\u0421\u0432\u0435\u0442\u0430": "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 12345), raddr=('127.0.0.1', 53316)>"
+        },
+        "log": [
+            "\u042f\u0440\u0438\u043a has entered in the chat. Hello, \u042f\u0440\u0438\u043a!",
+            "\u0421\u0432\u0435\u0442\u0430 has entered in the chat. Hello, \u0421\u0432\u0435\u0442\u0430!",
+            "\u0421\u0432\u0435\u0442\u0430: \u0425\u044d\u0439!",
+            "\u042f\u0440\u0438\u043a: \u0425\u044d\u0439!",
+            "\u0421\u0432\u0435\u0442\u0430: \u0416:q",
+            "\u0421\u0432\u0435\u0442\u0430 has left the chat",
+            "\u042f\u0440\u0438\u043a has left the chat"
+        ],
+        "server_off_time": "2023-02-27 10:06:14"
+    },
+    "Server lof from 2023-02-27 10:08:07 till 2023-02-27 10:08:50": {
+        "server_start_time": "2023-02-27 10:08:07",
+        "clients": {
+            "Yarik": "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 12345), raddr=('127.0.0.1', 55590)>",
+            "Igor": "<socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 12345), raddr=('127.0.0.1', 55584)>"
+        },
+        "log": [
+            "Yarik has entered in the chat. Hello, Yarik!",
+            "Igor has entered in the chat. Hello, Igor!",
+            "Igor: Hi!",
+            "Yarik: Hi!",
+            "Igor has left the chat",
+            "Yarik has left the chat"
+        ],
+        "server_off_time": "2023-02-27 10:08:50"
+    },
+    "Server lof from  till 2023-02-27 10:09:26": {
+        "server_start_time": "",
+        "clients": {},
+        "log": [],
+        "server_off_time": "2023-02-27 10:09:26"
+    },
+    "Server lof from  till 2023-02-27 10:09:41": {
+        "server_start_time": "",
+        "clients": {},
+        "log": [],
+        "server_off_time": "2023-02-27 10:09:41"
+    },
+    "Server lof from 2023-02-27 10:10:14 till 2023-02-27 10:10:46": {
+        "server_start_time": "2023-02-27 10:10:14",
+        "clients": {
+            "@Yarik": "<socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 12345), raddr=('127.0.0.1', 49354)>",
+            "@Ana": "<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 12345), raddr=('127.0.0.1', 49366)>"
+        },
+        "log": [
+            "@Yarik has entered in the chat. Hello, @Yarik!",
+            "@Ana has entered in the chat. Hello, @Ana!",
+            "@Ana: Hi!",
+            "@Yarik: Hi!",
+            "@Yarik has left the chat",
+            "@Ana has left the chat"
+        ],
+        "server_off_time": "2023-02-27 10:10:46"
+    },
+    "Server lof from 2023-02-27 10:51:38 till 2023-02-27 10:51:57": {
+        "server_start_time": "2023-02-27 10:51:38",
+        "clients": {
+            "@Yarik": "<socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 12345), raddr=('127.0.0.1', 54598)>"
+        },
+        "log": [
+            "@Yarik has entered in the chat. Hello, @Yarik!",
+            "@Yarik: Hi!",
+            "@Yarik has left the chat"
+        ],
+        "server_off_time": "2023-02-27 10:51:57"
+    }
+}
